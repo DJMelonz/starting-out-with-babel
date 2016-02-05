@@ -1,4 +1,4 @@
-# The Power Of The Preset
+# The Power of the Preset
 
 As well as specifying each package individually, giving you full control over what is transformes, you can also use presets. 
 

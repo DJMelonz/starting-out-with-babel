@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "babel src -d dist",
-    "doctor": "babel-doctor",
-    "babelrc": "echo {} > .babelrc"
+    "doctor": "babel-doctor"
   },
   "author": "Damian Mullins",
   "devDependencies": {
