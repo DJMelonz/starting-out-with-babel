@@ -1,4 +1,4 @@
-# 2. Telling Babel to transform
+# Telling Babel to transform
 
 Let's get cracking with tranformations.
 

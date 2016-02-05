@@ -1,4 +1,4 @@
-# 1. Adding the code and running Babel
+# Adding the code and running Babel
 
 Inside the `src` directory some code has been added which takes advantage of es2015 [default parameters](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/default_parameters) and [template strings](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/template_strings).
 
