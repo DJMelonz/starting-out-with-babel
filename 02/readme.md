@@ -1,10 +1,12 @@
 # 2. Telling Babel to transform
 
+Let's get cracking with tranformations.
+
 ## Diagnosing problems with the Doctor
 
 A nice way to tell if there are any issue with Babel is to run the [`babel-doctor`](http://babeljs.io/blog/2015/11/03/babel-doctor) command which is part of `babel-cli`. Try this now by typing `npm run doctor` into the command line.
 
-Runing this inside the [01](01) directory outputs the following
+Runing this inside the [01](../01) directory outputs the following
 
 ```shell
 × Found no .babelrc config
@@ -58,4 +60,6 @@ Run `npm install babel-plugin-transform-es2015-template-literals --save-dev` in 
 
 Run `npm run build` in the command line and et voila, template strings have been transformed into es5 syntax!
 
+## Transform all the things!
 
+As you can probably tell this would quickly become very time consuming as you start using more es2015 features. In the next section we'll look at ways to simplify our workflow.

@@ -1,6 +1,6 @@
 # 1. Adding the code and running Babel
 
-Inside the `src` directory some code has been added which takes advantage of es2015 [default parameters](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/default_parameters) and [template strings](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/template_strings), as well as [`let` declarations](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/let).
+Inside the `src` directory some code has been added which takes advantage of es2015 [default parameters](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/default_parameters) and [template strings](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/template_strings).
 
 ## Running the code
  
@@ -29,4 +29,4 @@ The [setup section on the Babel website](http://babeljs.io/docs/setup/#babel_cli
 
 In the futuristic land of Babel 6 no transformations happen by default, which explains why our code didn't change! 
 
-That's great and all but how do we tell Babel what we'd like to transform? (_hint: try running `npm run doctor` in the command line_) Let's move onto the next section to find out. 
+That's great and all but how do we tell Babel what we'd like to transform? (_hint: try running `npm run doctor` in the command line_) Let's move onto the [next section](../02) to find out. 
