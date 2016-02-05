@@ -1,0 +1,17 @@
+{
+  "name": "starting-out-with-babel-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "doctor": "babel-doctor",
+    "babelrc": "echo {} > .babelrc"
+  },
+  "author": "Damian Mullins",
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-plugin-transform-es2015-parameters": "^6.4.5",
+    "babel-plugin-transform-es2015-template-literals": "^6.3.13"
+  }
+}
