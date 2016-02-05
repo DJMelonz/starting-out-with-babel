@@ -62,4 +62,4 @@ Run `npm run build` in the command line and et voila, template strings have been
 
 ## Transform all the things!
 
-As you can probably tell this would quickly become very time consuming as you start using more es2015 features. In the next section we'll look at ways to simplify our workflow.
+As you can probably tell this would quickly become very time consuming as you start using more es2015 features. In the [next section](../03) we'll look at ways to simplify our workflow.
