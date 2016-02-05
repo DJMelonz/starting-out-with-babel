@@ -1,6 +1,6 @@
 # 1. Adding the code and running Babel
 
-Inside the `src` directory some code has been added which takes advantage of the es2015 [import](http://www.ecma-international.org/ecma-262/6.0/#sec-imports) & [export](http://www.ecma-international.org/ecma-262/6.0/#sec-exports) syntax.
+Inside the `src` directory some code has been added which takes advantage of the es2015 [import](http://www.ecma-international.org/ecma-262/6.0/#sec-imports) & [export](http://www.ecma-international.org/ecma-262/6.0/#sec-exports) syntax, as well as [`let` declarations](http://www.ecma-international.org/ecma-262/6.0/index.html#sec-let-and-const-declarations).
  
 ## Running the code
  
