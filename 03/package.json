@@ -1,5 +1,5 @@
 {
-  "name": "starting-out-with-babel-2",
+  "name": "starting-out-with-babel-3",
   "version": "1.0.0",
   "scripts": {
     "build": "babel src -d dist",

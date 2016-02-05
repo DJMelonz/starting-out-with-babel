@@ -1,8 +1,6 @@
 {
   "name": "starting-out-with-babel-2",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "babel src -d dist",
     "doctor": "babel-doctor",
