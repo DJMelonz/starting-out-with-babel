@@ -1,9 +1,14 @@
-import { add, subtract } from './maths';
 
-console.log('running');
+function sayHello(name = 'World') {
+    return `Hello ${name}!`;
+}
 
-let addResult = add(1, 1);
-let subtractResult = subtract(2, 1);
+function sayGoodbye(name = 'World') {
+    return `Goodbye ${name}!`;
+}
 
-console.log(addResult);
-console.log(subtractResult);
+var helloKeith = sayHello('Keith');
+var goodbyeKeith = sayGoodbye('Keith');
+
+console.log(helloKeith);
+console.log(goodbyeKeith);
